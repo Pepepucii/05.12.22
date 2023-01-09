@@ -1,0 +1,49 @@
+body
+{
+    background: rgb(2,189,196);
+    background: linear-gradient(90deg, rgba(2,189,196,1) 0%, rgba(21,112,133,1) 35%, rgba(214,19,184,1) 100%);
+}
+button
+{
+    background: rgb(2,189,196);
+    background: linear-gradient(90deg, rgba(2,189,196,1) 0%, rgba(21,112,133,1) 35%, rgba(214,19,184,1) 100%);
+    border-radius: 45%;
+    color: white;
+    position: relative;
+    
+    height: 40px;
+    width: 300px;
+    border: white;
+}
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    
+  }
+  
+div
+{
+background-color: white;
+width: 400px;
+height: 600;
+position:relative;
+left: 35%;
+}
+form
+{
+height: 400px;
+width: 300px;
+position: relative;
+left: 13%;
+}
+
+a{
+position: relative;
+left: 40%;
+}
+
